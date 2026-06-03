@@ -15,5 +15,5 @@ Correlation between price and rating = 0.01
 **Conclusion**: No significant relationship between price and product ratings
 
 **Visualizations:**
-![Correlation Matrix](corrplot.png)
-![Price vs Rating Scatter](scatter.png)
+![Correlation Matrix](Rplot.png)
+![Price vs Rating Scatter](Rplot01.png)
